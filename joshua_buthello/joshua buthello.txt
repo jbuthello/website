@@ -1,0 +1,7 @@
+Respected Sir,
+I've tried my best to create the given sample website, using simple fundamental basic concepts of HTML and CSS to create the website,
+The first tab has an event listener, it opens an image when clicked, and the image itself has transform and transition effects when hovered upon.
+
+awaiting your positive feedback
+Sincerely,
+Joshua Buthello
